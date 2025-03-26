@@ -60,8 +60,8 @@ Contributions are welcome! If you find any bugs or want to add new features, fee
 - Submit a pull request.
 
 ## Output 
-![homepage](https://github.com/user-attachments/assets/e088d849-f8c7-4169-83d8-664cca7f1bc4)
-![new order](https://github.com/user-attachments/assets/b6281e09-8379-4cd4-9604-4a3db34558cd)
-![manage](https://github.com/user-attachments/assets/f86c6cca-62bf-4c22-a2fb-2b08014a0d73)
+![homepage](https://github.com/user-attachments/assets/c765c562-ddd5-4923-b74e-65a614d5ee66)
+![new order](https://github.com/user-attachments/assets/f408ada1-f83d-4d92-a22f-b8c56fc39c93)
+![manage](https://github.com/user-attachments/assets/f9f75154-cac4-48d4-8682-23450eecd929)
 
 This project is ideal for small to medium-sized grocery stores looking to digitize their operations. Happy Coding!
