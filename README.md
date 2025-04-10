@@ -25,8 +25,8 @@ Admin Panel:
 
 ## Technologies Used
 
-Frontend: HTML, CSS, JavaScript, Bootstrap
-Backend: Python, Flask
+Frontend: HTML, CSS, JavaScript, Bootstrap \n
+Backend: Python, Flask \n
 Database: MySQL
 
 
